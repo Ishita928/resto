@@ -1,0 +1,33 @@
+.chef{
+border-radius: 50%;
+margin-left: 33rem;
+
+
+}
+.text{
+    position: fixed;
+    color: rgb(117, 109, 109);
+    font-size: larger;
+   margin-top: 2rem;
+    font-style: italic;
+    margin-left: 3rem;
+    width: 35%;
+    cursor: pointer;
+   
+}
+.textt{
+  
+    color: grey;
+    font-size: larger;
+    font-style: italic;
+    cursor: pointer;
+    margin-top: 15rem;
+    width: 35%;
+    margin-left:4rem;
+
+}
+.spoon{
+    border-radius: 50%;
+    margin-left: 35%;
+    
+}
